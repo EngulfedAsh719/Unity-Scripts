@@ -1,1 +1,1 @@
-That's the main scripts for the FPS-Shooter in Unity
+These are the main scripts for the FPS-Shooter in Unity
